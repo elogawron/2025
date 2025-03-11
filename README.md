@@ -5,4 +5,8 @@ Kingdom Come: Deliverance
 Wikingowie
 
 # Filmy do polecenia
-Braveheart / Ostatni samuraj
+Braveheart
+Ostatni samuraj
+
+# Ciekawa książka
+Trylogia husycka
